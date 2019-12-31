@@ -1,0 +1,37 @@
+body{
+margin: 0;
+text-align: center;
+}
+h1{
+margin-top: 0;
+width:200px;
+color:#66BFBF;
+font-family:cursive;
+margin:0 auto;
+}
+p{
+  color:#66BFBF;
+  font-family:cursive;
+}
+.top{
+  background-color:#eaf6f6;
+}
+.middle
+{
+  background-color:yellow;
+  height:200px;
+  width: 200px;
+}
+.bottom
+{
+  background-color:cyan;
+  height:200px;
+  width: 200px;
+}
+.cloud{
+  margin-top:50px;
+  margin-left: 100px;
+}
+.mount{
+  top: 50px;
+}
